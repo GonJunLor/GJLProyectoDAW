@@ -13,7 +13,7 @@
         <category>Educación</category>
         <language>es-es</language>
         <pubDate>Thu, 21 Nov 2024 17:09:00 +0100</pubDate>
-        <lastBuildDate>Sat, 14 Dec 2024 16:56:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 20:43:00 +0100</lastBuildDate>
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
@@ -195,10 +195,110 @@
             <![CDATA[
             <img src="https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud2/03/images/logo200x181.png" width="82" height="40" alt="Logo IES"/>
             ]]>
-            Creacion del archivo de validadción de xml de tipo esquema.xsd para ejercicio 2.2</description>
+            Creacion del archivo de validadción de xml de tipo esquema.xsd para ejercicio 2.2
+            </description>
             <category>Educación</category>
             <pubDate>Tue, 14 Jan 2025 22:11:00 +0100</pubDate>
             <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/02/02.2.xml</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD4.04 xml,dtd,xsd de Universidad</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/04/04.xml</link>
+            <description>
+            Creacion de archivos xml,dtd,xsd para la gestión y validación de los datos de una universidad
+            </description>
+            <category>Educación</category>
+            <pubDate>Sun, 19 Jan 2025 19:32:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/04/04.xml</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD4.04.2 xml,dtd,xsd de Universidad Mejorado</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/04.2/04.xml</link>
+            <description>
+            Creacion de archivos xml,dtd,xsd para la gestión y validación de los datos de una universidad pero con dierentes archivos.
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 31 Jan 2025 22:18:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/04.2/04.xml</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD4.04.2 xml,dtd,xsd de Universidad Mejorado</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/04.2/04.xml</link>
+            <description>
+            Creacion de archivos xml,dtd,xsd para la gestión y validación de los datos de una universidad pero con dierentes archivos.
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 31 Jan 2025 22:18:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud4/04.2/04.xml</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD5.01 XPath</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/01/01.html</link>
+            <description>
+            Resolución de consultas XPath sobre el archivo 04.xml de universidad de la unidad 4.
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 31 Jan 2025 22:31:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/01/01.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD5.02. Información de alumnos</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/02/target/index.html</link>
+            <description>
+            Uso de saxon para crear pagina html a partir de un xsl con información de alumnos
+            </description>
+            <category>Educación</category>
+            <pubDate>Tue, 18 Feb 2025 20:39:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/02/target/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD5.03. Ticket</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/03/target/index.html</link>
+            <description>
+            Extraer la información de tickets en formato xml y presentarla ordenada en html.
+            </description>
+            <category>Educación</category>
+            <pubDate>Tue, 18 Feb 2025 20:40:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/03/target/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD5.04. Formulario tipo test</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/04/target/index.html</link>
+            <description>
+            Crear un formulario en html a partir de un xml con las respuestas. Se la pagina en dos versiones en función de si está corregido o no. 
+            </description>
+            <category>Educación</category>
+            <pubDate>Tue, 18 Feb 2025 20:41:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/04/target/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD5.05. XML a XML</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/05/target/index.html</link>
+            <description>
+            Transformar un xml en otro xml extrayendo los atributos de las filas y convirtiendolos en etiquetas.
+            </description>
+            <category>Educación</category>
+            <pubDate>Tue, 18 Feb 2025 20:42:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/05/target/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD5.06. XML a TXT</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/06/target/index.html</link>
+            <description>
+            Transformar la información de un xml a un txt con un formato personalizado.
+            </description>
+            <category>Educación</category>
+            <pubDate>Tue, 18 Feb 2025 20:43:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/06/target/index.html</guid>
             <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
         </item>
     </channel>
