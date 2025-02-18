@@ -281,24 +281,24 @@
         </item>
         <item>
             <title>UD5.05. XML a XML</title>
-            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/05/target/index.html</link>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/05/target/index.xml</link>
             <description>
             Transformar un xml en otro xml extrayendo los atributos de las filas y convirtiendolos en etiquetas.
             </description>
             <category>Educación</category>
             <pubDate>Tue, 18 Feb 2025 20:42:00 +0100</pubDate>
-            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/05/target/index.html</guid>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/05/target/index.xml</guid>
             <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
         </item>
         <item>
             <title>UD5.06. XML a TXT</title>
-            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/06/target/index.html</link>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/06/target/index.txt</link>
             <description>
             Transformar la información de un xml a un txt con un formato personalizado.
             </description>
             <category>Educación</category>
             <pubDate>Tue, 18 Feb 2025 20:43:00 +0100</pubDate>
-            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/06/target/index.html</guid>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/06/target/index.txt</guid>
             <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
         </item>
     </channel>
