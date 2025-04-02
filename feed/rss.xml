@@ -13,7 +13,7 @@
         <category>Educación</category>
         <language>es-es</language>
         <pubDate>Thu, 21 Nov 2024 17:09:00 +0100</pubDate>
-        <lastBuildDate>Tue, 18 Feb 2025 20:43:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 20:43:00 +0100</lastBuildDate>
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
@@ -310,6 +310,72 @@
             <category>Educación</category>
             <pubDate>Thu, 27 Feb 2025 20:42:00 +0100</pubDate>
             <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud5/07/target/prediccion.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>Examen.01. 1ª Evaluación</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/Ex1ev01/index.html</link>
+            <description>
+            Resultado del primer examen de la primera evaluación.
+            </description>
+            <category>Educación</category>
+            <pubDate>Thu, 27 Feb 2025 20:50:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/Ex1ev01/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>Examen.02. 1ª Evaluación</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/Ex1ev02/inicio.html</link>
+            <description>
+            Resultado del segundo examen de la primera evaluación.
+            </description>
+            <category>Educación</category>
+            <pubDate>Thu, 27 Feb 2025 20:51:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/Ex1ev02/inicio.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>Examen refuerzo 2ª Evaluación (1)</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/refuerzoEx2ev/03.md</link>
+            <description>
+            Examen preparatorio de la segunda evaluacion, parte primera.
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 14 Mar 2025 22:47:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/refuerzoEx2ev/03.md</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>Examen refuerzo 2ª Evaluación (2)</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/refuerzoEx2ev02/target/NuevoJoaquinSabina.html</link>
+            <description>
+            Examen preparatorio de la segunda evaluacion, parte segunda.
+            </description>
+            <category>Educación</category>
+            <pubDate>Sat, 15 Mar 2025 11:22:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/refuerzoEx2ev02/target/NuevoJoaquinSabina.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>Examen.03. 2ª Evaluación</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/03/target/pedidos.html</link>
+            <description>
+            Resultado del examen de la segunda evaluación.
+            </description>
+            <category>Educación</category>
+            <pubDate>Mon, 17 Mar 2025 11:00:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/examenes/03/target/pedidos.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD03.01. Ejemplo 1 DOM</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud3/01/01.html</link>
+            <description>
+            Crear código javascript para dar funcionalidad a botones de html por medio de funciones de javascript.
+            </description>
+            <category>Educación</category>
+            <pubDate>Wed, 02 Apr 2025 20:43:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud3/01/01.html</guid>
             <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
         </item>
     </channel>
