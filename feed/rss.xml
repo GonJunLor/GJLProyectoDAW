@@ -13,7 +13,7 @@
         <category>Educación</category>
         <language>es-es</language>
         <pubDate>Thu, 21 Nov 2024 17:09:00 +0100</pubDate>
-        <lastBuildDate>Wed, 02 Apr 2025 20:43:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 15:36:00 +0100</lastBuildDate>
         <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
@@ -365,6 +365,17 @@
             <category>Educación</category>
             <pubDate>Wed, 02 Apr 2025 20:43:00 +0100</pubDate>
             <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud3/01/01.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD03.02. Creación de tablas</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud3/02/index.html</link>
+            <description>
+            Creación de tablas con javascript en funcion de los datos obtenidos de inputs.
+            </description>
+            <category>Educación</category>
+            <pubDate>Wed, 09 Apr 2025 15:36:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud3/02/index.html</guid>
             <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
         </item>
     </channel>
