@@ -12,7 +12,7 @@
         </image>
         <category>Educación</category>
         <language>es-es</language>
-        <pubDate>Thu, 21 Nov 2024 17:09:00 +0100</pubDate>
+        <pubDate>Mon, 19 May 2025 21:59:00 +0100</pubDate>
         <lastBuildDate>Tue, 29 Apr 2025 23:15:00 +0100</lastBuildDate>
         <skipDays>
             <day>Saturday</day>
@@ -387,6 +387,39 @@
             <category>Educación</category>
             <pubDate>Tue, 29 Apr 2025 23:15:00 +0100</pubDate>
             <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud3/03/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD06.01. Cargar JSON en el navegador</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud6/01/index.html</link>
+            <description>
+            Carga nombre y edad de un archivo JSON en el navegador.
+            </description>
+            <category>Educación</category>
+            <pubDate>Mon, 19 May 2025 21:50:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud6/01/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD06.02. Listado de personas</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud6/02/index.html</link>
+            <description>
+            Carga nombre y edad de un archivo JSON en el que hay varios elementos y con javascript lo recorre y crea una lista. Añadido tambien botón para borrar el elemento.
+            </description>
+            <category>Educación</category>
+            <pubDate>Mon, 19 May 2025 21:55:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud6/02/index.html</guid>
+            <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
+        </item>
+        <item>
+            <title>UD06.03. Almacenamineto</title>
+            <link>https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud6/03/index.html</link>
+            <description>
+            Lista de ejercicios XQuery y XSLT;
+            </description>
+            <category>Educación</category>
+            <pubDate>Mon, 19 May 2025 21:59:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw108.ieslossauces.es/108LMSGIProyectoLMSGI/ud6/03/index.html</guid>
             <author>gonzalo.junlor@educa.jcyl.es (Gonzalo Junquera)</author>
         </item>
     </channel>
