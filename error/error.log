@@ -1,0 +1,8 @@
+[Wed Oct 01 12:19:12.282879 2025] [core:alert] [pid 13440:tid 134424571057856] [client 10.199.9.107:55059] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>, referer: http://10.199.8.153/error/
+[Wed Oct 01 12:19:29.159118 2025] [core:alert] [pid 13440:tid 134424490407616] [client 10.199.9.107:55058] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>
+[Thu Oct 02 10:08:37.600107 2025] [core:alert] [pid 861:tid 133940745672384] [client 10.199.9.107:52139] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>
+[Thu Oct 02 10:08:37.808792 2025] [core:alert] [pid 863:tid 133940745672384] [client 10.199.9.107:52140] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>, referer: http://10.199.8.153/
+[Thu Oct 02 10:09:45.606761 2025] [core:alert] [pid 861:tid 133940728886976] [client 10.199.9.107:52144] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>
+[Thu Oct 02 10:09:45.675473 2025] [core:alert] [pid 863:tid 133940467709632] [client 10.199.9.107:52145] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>, referer: http://10.199.8.153/index
+[Thu Oct 02 10:11:44.574386 2025] [core:alert] [pid 863:tid 133940450924224] [client 10.199.9.107:52164] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>
+[Thu Oct 02 10:11:44.642474 2025] [core:alert] [pid 861:tid 133940712101568] [client 10.199.9.107:52165] /var/www/html/.htaccess: Expected </Directory> but saw </Directoy>, referer: http://10.199.8.153/index.html

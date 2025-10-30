@@ -13,8 +13,9 @@
     --fuenteTexto1: Sofia,sans-serif;
     --fuenteTexto2: Arial,sans-serif;
 
-    --anchoArticulo: 23vw;
-    --altoArticulo: 24vw;
+    --anchoArticulo: 23vh;
+    --altoArticulo: 24vh;
+    /*actualizacion*/
 
     /* Combinación de dimensiones para el iframe, funciona al 50% */
     --anchoIframe:calc(var(--anchoArticulo)*3.3);
@@ -47,7 +48,7 @@ nav{
     z-index: 2000;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content:space-around;
 }
 
 /* Cabecera */
@@ -56,7 +57,7 @@ body>header{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 60vh;
+    height: 0vh;
     display: flex;
     flex-direction: row;
     align-items:end;
@@ -104,7 +105,8 @@ article{
     flex-direction: column;
     align-items: center;
     margin: 5px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
 }
 article>a{
     /* Dimensiones */
@@ -123,6 +125,7 @@ article>a{
 article>a>img{
     width: var(--anchoArticulo);
     margin-bottom: 2em;
+    border-radius: 15px;
 }
 
 /* Pie de pagína */
